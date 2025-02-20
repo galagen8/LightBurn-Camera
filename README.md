@@ -36,5 +36,25 @@ Using bending and cutting machines I got that:
 
 It can turns around 2 axis around 80 degree and it just enough for this purpose. To manufacture it I used steel and transparent acrylic.
 About preffered mounting distance from the table, Lighburn settings and camera calibration etc. you can find 2 pdf manuals stored in "MANUALS" directory. 
+</br>
+</br>
+For mounting the camera I've built rectangular aluminum support:
+</br>
+<p align="center">
+<img src="https://github.com/user-attachments/assets/f0ccf84f-4753-4806-8682-fd1349806bef" width="350">
+</p>
+</br>
+
+And this is how camera window looks in Lightburn:
+</br>
+<p align="center">
+<img src="https://github.com/user-attachments/assets/8eb24a64-e6ba-482f-a1ee-3485f1269f33" width="350">
+</p>
+</br>
+
+Thank you for your attention and I hope it helps!
+
+
+
 
 
