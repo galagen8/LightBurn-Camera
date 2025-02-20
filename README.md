@@ -7,16 +7,21 @@ of your old machine. With Lightburn you can even see what you cut - needed just 
 I found this camera on some marketplace, it was pretty cheap = 23$: </br>
 </br> </br>
 <p align="center">
-<img src="https://github.com/user-attachments/assets/8f12824f-009e-4e09-9881-594a7afe749b" width="350" />
+<img src="https://github.com/user-attachments/assets/8f12824f-009e-4e09-9881-594a7afe749b" width="250" />
 </p>
 </br>
 I've provided the drawing of this small PCB:
-</br> </br>
+</br>
 <p align="center">
 <img src="https://github.com/user-attachments/assets/ddf654bc-d7d9-400f-936f-e787ded41aed" width="550">
 </p>
 </br>
-Provided 3D model in Solidworks:
+Provided 3D model in Solidworks - All Solidworks files you can find in "Solidworks files" directory:
+</br></br>
+<p align="center">
+<img src="https://github.com/user-attachments/assets/61e4bffa-21a0-47ef-9851-8b1bfce0f673" width="350">
+</p>
+
 </br>
 Using bending and cutting machines I got that:
 </br></br>
@@ -30,5 +35,6 @@ Using bending and cutting machines I got that:
 <img src="https://github.com/user-attachments/assets/787c62e0-cd18-4b79-bb7d-00bf426fecc1" width="350">
 </p>
 
+It can turns around 2 axis and it just enough for this purposes. To manufacture it I used steel and transparent acryllic. 
 
 
