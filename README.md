@@ -13,13 +13,12 @@ I found this camera on some marketplace, it was pretty cheap = 23$: </br>
 I've provided the drawing of this small PCB:
 </br>
 <p align="center">
-<img src="https://github.com/user-attachments/assets/ddf654bc-d7d9-400f-936f-e787ded41aed" width="550">
+<img src="https://github.com/user-attachments/assets/ddf654bc-d7d9-400f-936f-e787ded41aed" width="500">
 </p>
-</br>
-Provided 3D model in Solidworks - All Solidworks files you can find in "Solidworks files" directory:
+Provided 3D model in Solidworks - All Solidworks models and assembly files you can find in "Solidworks files" directory:
 </br></br>
 <p align="center">
-<img src="https://github.com/user-attachments/assets/61e4bffa-21a0-47ef-9851-8b1bfce0f673" width="350">
+<img src="https://github.com/user-attachments/assets/61e4bffa-21a0-47ef-9851-8b1bfce0f673" width="300">
 </p>
 
 </br>
@@ -35,6 +34,7 @@ Using bending and cutting machines I got that:
 <img src="https://github.com/user-attachments/assets/787c62e0-cd18-4b79-bb7d-00bf426fecc1" width="350">
 </p>
 
-It can turns around 2 axis and it just enough for this purposes. To manufacture it I used steel and transparent acryllic. 
+It can turns around 2 axis around 80 degree and it just enough for this purpose. To manufacture it I used steel and transparent acrylic.
+About preffered mounting distance from the table, Lighburn settings and camera calibration etc. you can find 2 pdf manuals stored in "MANUALS" directory. 
 
 
